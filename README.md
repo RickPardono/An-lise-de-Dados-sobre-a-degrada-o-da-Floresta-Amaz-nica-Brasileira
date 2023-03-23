@@ -1,1 +1,1 @@
- Análise de Dados sobre a degradação da Floresta Amazônica Brasileira
+Este estudo tem como objetivo realizar uma análise exploratória de dados para extrair informações úteis que possam nos elucidar a respeito do processo de degradação da Floresta Amazônica Brasileira, tendo como fonte dois datasets públicos do Instituto Nacional de Pesquisas Espaciais (INPE), disponibilizados no site www.kaggle.com.
