@@ -1,0 +1,1 @@
+# An-lise-de-Dados-sobre-a-degrada-o-da-Floresta-Amaz-nica-Brasileira
