@@ -4,6 +4,7 @@
 
 
 O objetivo desse estudo é realizar uma análise exploratória de dados para investigar sobre o processo de degradação da Floresta Amazônica Brasileira ocorrido durante o ano de 1999 até o ano de 2019. Esse estudo tem como fonte de dados dois datasets públicos do Instituto Nacional de Pesquisas Espaciais (INPE), disponibilizados no site www.kaggle.com. Foram utilizadas em Python as bibliotecas Pandas, Numpy, Matplotlib e Seaborn. Visualizações gráficas foram geradas para se responder as seguintes perguntas: 
+
     * O desmatamento na Amazônia está aumentando ?
     * Qual é o total de área desmatada por estado ?
     * Qual é o estado mais afetado e o menos afetado ?
