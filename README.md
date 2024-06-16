@@ -1,4 +1,5 @@
-##**Análise de dados sobre a degradação da Floresta Amazônica Brasileira**
+## **Análise de dados sobre a degradação da Floresta Amazônica Brasileira**
+
 ![Captura de tela desmatamento](https://github.com/RickPardono/An-lise-de-dados-sobre-a-degrada-o-da-Floresta-Amaz-nica-Brasileira/assets/124527157/028a47b9-23e8-4ae5-af7d-4b7bbb7b8583)
 
 
