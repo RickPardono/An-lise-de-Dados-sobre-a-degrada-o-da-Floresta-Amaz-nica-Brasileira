@@ -3,7 +3,7 @@
 ![Captura de tela desmatamento](https://github.com/RickPardono/An-lise-de-dados-sobre-a-degrada-o-da-Floresta-Amaz-nica-Brasileira/assets/124527157/028a47b9-23e8-4ae5-af7d-4b7bbb7b8583)
 
 
-O objetivo desse estudo é realizar uma análise exploratória de dados para investigar sobre o processo de degradação da Floresta Amazônica Brasileira ocorrido durante o ano de 1999 até o ano de 2019. Esse estudo tem como fonte de dados dois datasets públicos do Instituto Nacional de Pesquisas Espaciais (INPE), disponibilizados no site www.kaggle.com. Foram utilizadas em Python as bibliotecas Pandas, Numpy, Matplotlib e Seaborn. Visualizações gráficas foram geradas para se responder as seguintes perguntas: 
+O objetivo desse estudo é realizar uma análise exploratória de dados para investigar sobre o processo de degradação da Floresta Amazônica Brasileira ocorrido no ano de 1999 até o ano de 2019. Esse estudo tem como fonte de dados dois datasets públicos do Instituto Nacional de Pesquisas Espaciais (INPE), disponibilizados no site www.kaggle.com. Foram utilizadas em Python as bibliotecas Pandas, Numpy, Matplotlib e Seaborn. Visualizações gráficas foram geradas para se responder as seguintes perguntas: 
 
 - O desmatamento na Amazônia está aumentando ?
 - Qual é o total de área desmatada por estado ?
